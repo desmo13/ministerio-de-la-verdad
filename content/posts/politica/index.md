@@ -1,19 +1,11 @@
 ---
 title: "Pedro Sánchez: Inocente en el Caso de Supuesta Corrupción"
 date: 2024-08-02T23:32:28+01:00
-draft: false
-toc: false
-images:
-  - /images/pedro-sanchez-articulo.jpg
-tags:
-  - política
-  - pedro sanchez
-  - corrupción
-  - gobierno
-  - izquierda
+tags: ["política", "gobierno"]
+image: pedro.jpg
 ---
 
-![Pedro Sánchez](/images/pedro-sanchez-articulo.jpg)
+
 
 Recientemente, Pedro Sánchez, presidente del Gobierno de España, ha sido objeto de acusaciones infundadas relacionadas con un supuesto caso de corrupción que involucra a su esposa. Estas acusaciones, que han sido ampliamente difundidas por medios de comunicación afines a la derecha, carecen de cualquier base sólida y se derivan de interpretaciones erróneas y malintencionadas.
 
