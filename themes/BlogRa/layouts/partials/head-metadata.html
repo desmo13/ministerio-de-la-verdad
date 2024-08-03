@@ -14,7 +14,7 @@
 
 <!-- COMPILE CSS -->
 {{ $style := resources.Get "main.scss" | toCSS | minify }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}main.min.css">
 
 <!-- BUNDLE JAVASRIPT -->
 {{ $bootstrap_js := resources.Get "bootstrap-5.0.0/dist/js/bootstrap.bundle.min.js" }}
