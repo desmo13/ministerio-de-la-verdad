@@ -2,53 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El Ministerio de la Verdad</title>
-    <link>http://localhost:1313/ministerio-de-la-verdad/</link>
+    <link>https://desmo13.github.io/ministerio-de-la-verdad/</link>
     <description>Recent content on El Ministerio de la Verdad</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ministerio-de-la-verdad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://desmo13.github.io/ministerio-de-la-verdad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Palestina: Una Lucha por la Libertad y Contra la Opresión Israelí</title>
-      <link>http://localhost:1313/ministerio-de-la-verdad/posts/palestina/</link>
+      <link>https://desmo13.github.io/ministerio-de-la-verdad/posts/palestina/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/palestina/</guid>
+      <guid>https://desmo13.github.io/ministerio-de-la-verdad/posts/palestina/</guid>
       <description>La situación en Palestina ha sido una fuente constante de conflicto y opresión durante décadas. El pueblo palestino ha sufrido una serie de injusticias y violaciones de derechos humanos a manos de las autoridades israelíes.</description>
     </item>
     <item>
       <title>Acerca de</title>
-      <link>http://localhost:1313/ministerio-de-la-verdad/about/</link>
+      <link>https://desmo13.github.io/ministerio-de-la-verdad/about/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>http://localhost:1313/ministerio-de-la-verdad/about/</guid>
+      <guid>https://desmo13.github.io/ministerio-de-la-verdad/about/</guid>
       <description>Esta página es sobre nosotros. Aquí puedes agregar información sobre el propósito de tu blog, el equipo detrás de él, y cualquier otra información relevante.</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/ministerio-de-la-verdad/contact/</link>
+      <link>https://desmo13.github.io/ministerio-de-la-verdad/contact/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>http://localhost:1313/ministerio-de-la-verdad/contact/</guid>
+      <guid>https://desmo13.github.io/ministerio-de-la-verdad/contact/</guid>
       <description>Si deseas ponerte en contacto con nosotros, por favor envía un correo electrónico a tu-email@dominio.com o utiliza el siguiente formulario de contacto.</description>
     </item>
     <item>
       <title>Nicolás Maduro: Ejemplo de Progreso Social y Revolución de Izquierdas</title>
-      <link>http://localhost:1313/ministerio-de-la-verdad/posts/mi-primer-post/</link>
+      <link>https://desmo13.github.io/ministerio-de-la-verdad/posts/mi-primer-post/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/mi-primer-post/</guid>
+      <guid>https://desmo13.github.io/ministerio-de-la-verdad/posts/mi-primer-post/</guid>
       <description>En los últimos años, Venezuela ha estado en el centro de debates políticos y sociales a nivel mundial. La figura de Nicolás Maduro, actual presidente de Venezuela, ha sido objeto de muchas controversias, pero también se ha convertido en un símbolo de lucha y resistencia para muchos sectores de la izquierda.</description>
     </item>
     <item>
       <title>Pedro Sánchez: Inocente en el Caso de Supuesta Corrupción</title>
-      <link>http://localhost:1313/ministerio-de-la-verdad/posts/politica/</link>
+      <link>https://desmo13.github.io/ministerio-de-la-verdad/posts/politica/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/politica/</guid>
+      <guid>https://desmo13.github.io/ministerio-de-la-verdad/posts/politica/</guid>
       <description>Recientemente, Pedro Sánchez, presidente del Gobierno de España, ha sido objeto de acusaciones infundadas relacionadas con un supuesto caso de corrupción que involucra a su esposa.</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/ministerio-de-la-verdad/posts/placeholder-text/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&#xA;pectora summo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
