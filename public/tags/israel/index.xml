@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Israel on El Ministerio de la Verdad</title>
+    <link>http://localhost:1313/ministerio-de-la-verdad/tags/israel/</link>
+    <description>Recent content in Israel on El Ministerio de la Verdad</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ministerio-de-la-verdad/tags/israel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palestina: Una Lucha por la Libertad y Contra la Opresión Israelí</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/posts/palestina/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/palestina/</guid>
+      <description>La situación en Palestina ha sido una fuente constante de conflicto y opresión durante décadas. El pueblo palestino ha sufrido una serie de injusticias y violaciones de derechos humanos a manos de las autoridades israelíes.</description>
+    </item>
+  </channel>
+</rss>

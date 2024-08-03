@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gobierno on El Ministerio de la Verdad</title>
-    <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/gobierno/</link>
+    <link>http://localhost:1313/ministerio-de-la-verdad/tags/gobierno/</link>
     <description>Recent content in Gobierno on El Ministerio de la Verdad</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 Aug 2024 23:32:28 +0100</lastBuildDate>
-    <atom:link href="https://desmo13.github.io/ministerio-de-la-verdad/tags/gobierno/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ministerio-de-la-verdad/tags/gobierno/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pedro Sánchez: Inocente en el Caso de Supuesta Corrupción</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/posts/politica/</link>
+      <link>http://localhost:1313/ministerio-de-la-verdad/posts/politica/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/posts/politica/</guid>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/politica/</guid>
       <description>Recientemente, Pedro Sánchez, presidente del Gobierno de España, ha sido objeto de acusaciones infundadas relacionadas con un supuesto caso de corrupción que involucra a su esposa.</description>
     </item>
   </channel>

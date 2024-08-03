@@ -2,45 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on El Ministerio de la Verdad</title>
-    <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/</link>
+    <link>http://localhost:1313/ministerio-de-la-verdad/tags/</link>
     <description>Recent content in Tags on El Ministerio de la Verdad</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 02 Aug 2024 23:32:28 +0100</lastBuildDate>
-    <atom:link href="https://desmo13.github.io/ministerio-de-la-verdad/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ministerio-de-la-verdad/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gobierno</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/gobierno/</link>
-      <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/tags/gobierno/</guid>
+      <title>Internacional</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/internacional/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/internacional/</guid>
       <description></description>
     </item>
     <item>
-      <title>Izquierda</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/izquierda/</link>
-      <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/tags/izquierda/</guid>
+      <title>Israel</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/israel/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Palestina</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/palestina/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/palestina/</guid>
       <description></description>
     </item>
     <item>
       <title>Política</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/pol%C3%ADtica/</link>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/pol%C3%ADtica/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gobierno</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/gobierno/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/tags/pol%C3%ADtica/</guid>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/gobierno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Izquierda</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/izquierda/</link>
+      <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/izquierda/</guid>
       <description></description>
     </item>
     <item>
       <title>Progreso-Social</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/progreso-social/</link>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/progreso-social/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/tags/progreso-social/</guid>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/progreso-social/</guid>
       <description></description>
     </item>
     <item>
       <title>Venezuela</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/venezuela/</link>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/venezuela/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/tags/venezuela/</guid>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/venezuela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/markdown/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/tags/text/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/tags/text/</guid>
       <description></description>
     </item>
   </channel>
