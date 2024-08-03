@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Sanchez on El Ministerio de la Verdad</title>
+    <link>http://localhost:1313/ministerio-de-la-verdad/tags/pedro-sanchez/</link>
+    <description>Recent content in Pedro Sanchez on El Ministerio de la Verdad</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 02 Aug 2024 23:32:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/ministerio-de-la-verdad/tags/pedro-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pedro Sánchez: Inocente en el Caso de Supuesta Corrupción</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/posts/politica/pedro-sanchez-inocente/</link>
+      <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/politica/pedro-sanchez-inocente/</guid>
+      <description>Recientemente, Pedro Sánchez, presidente del Gobierno de España, ha sido objeto de acusaciones infundadas relacionadas con un supuesto caso de corrupción que involucra a su esposa.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Política on El Ministerio de la Verdad</title>
-    <link>https://desmo13.github.io/ministerio-de-la-verdad/tags/pol%C3%ADtica/</link>
+    <link>http://localhost:1313/ministerio-de-la-verdad/tags/pol%C3%ADtica/</link>
     <description>Recent content in Política on El Ministerio de la Verdad</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 Aug 2024 23:32:28 +0100</lastBuildDate>
-    <atom:link href="https://desmo13.github.io/ministerio-de-la-verdad/tags/pol%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ministerio-de-la-verdad/tags/pol%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nicolás Maduro: Ejemplo de Progreso Social y Revolución de Izquierdas</title>
-      <link>https://desmo13.github.io/ministerio-de-la-verdad/posts/mi-primer-post/</link>
+      <link>http://localhost:1313/ministerio-de-la-verdad/posts/mi-primer-post/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>https://desmo13.github.io/ministerio-de-la-verdad/posts/mi-primer-post/</guid>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/mi-primer-post/</guid>
       <description>En los últimos años, Venezuela ha estado en el centro de debates políticos y sociales a nivel mundial. La figura de Nicolás Maduro, actual presidente de Venezuela, ha sido objeto de muchas controversias, pero también se ha convertido en un símbolo de lucha y resistencia para muchos sectores de la izquierda.</description>
+    </item>
+    <item>
+      <title>Pedro Sánchez: Inocente en el Caso de Supuesta Corrupción</title>
+      <link>http://localhost:1313/ministerio-de-la-verdad/posts/politica/pedro-sanchez-inocente/</link>
+      <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
+      <guid>http://localhost:1313/ministerio-de-la-verdad/posts/politica/pedro-sanchez-inocente/</guid>
+      <description>Recientemente, Pedro Sánchez, presidente del Gobierno de España, ha sido objeto de acusaciones infundadas relacionadas con un supuesto caso de corrupción que involucra a su esposa.</description>
     </item>
   </channel>
 </rss>
