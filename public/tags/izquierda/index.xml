@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Izquierda on El Ministerio de la Verdad</title>
-    <link>http://localhost:1313/tags/izquierda/</link>
+    <link>https://desmo13.github.io/tags/izquierda/</link>
     <description>Recent content in Izquierda on El Ministerio de la Verdad</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 Aug 2024 23:32:28 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/izquierda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://desmo13.github.io/tags/izquierda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nicolás Maduro: Ejemplo de Progreso Social y Revolución de Izquierdas</title>
-      <link>http://localhost:1313/posts/mi-primer-post/</link>
+      <link>https://desmo13.github.io/posts/mi-primer-post/</link>
       <pubDate>Fri, 02 Aug 2024 23:32:28 +0100</pubDate>
-      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
+      <guid>https://desmo13.github.io/posts/mi-primer-post/</guid>
       <description>En los últimos años, Venezuela ha estado en el centro de debates políticos y sociales a nivel mundial. La figura de Nicolás Maduro, actual presidente de Venezuela, ha sido objeto de muchas controversias, pero también se ha convertido en un símbolo de lucha y resistencia para muchos sectores de la izquierda.</description>
     </item>
   </channel>
