@@ -1,4 +1,4 @@
-baseURL = "https://desmo13.github.io/ministerio-de-la-verdad"
+baseURL = "https://desmo13.github.io"
 canonifyURLs = true
 pluralizeListTitles = false
 summaryLength = 25
