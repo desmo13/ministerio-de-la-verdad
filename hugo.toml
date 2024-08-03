@@ -1,0 +1,82 @@
+baseURL = "https://example.com/"
+canonifyURLs = true
+pluralizeListTitles = false
+summaryLength = 25
+
+theme = "BlogRa"
+languageCode = "es-es"
+title = "El Ministerio de la Verdad"
+
+disqusShortname = ""
+
+[params]
+    description = "El blog definitivo para la discusión y promoción de ideas progresistas y revolucionarias."
+    contactEmail = "tu-email@dominio.com"
+    footer = ""
+    googleSearch = "google-cse-key"
+    googleAnalytics = "G-A1B2C3D4E5"
+    adsense = "adsense-key"
+    math = false
+    mermaid = false
+
+    # Social Media Params
+    facebook = "https://www.facebook.com/DevHacker-2351204168278028"
+    twitter = ""
+    youtube = "https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw"
+    instagram = ""
+    github = "https://github.com/rafed"
+    pinterest = ""
+    linkedin = "https://www.linkedin.com/in/rafed-m-yasir/"
+
+# Configure the site menu here
+[menu]
+    [[menu.main]]
+        name = "Inicio"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "Publicaciones"
+                url = "/posts/"
+                weight = 1
+            [[menu.main]]
+                parent = "blog"
+                name = "Secciones"
+                url = "/sections/"
+                weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "divider"
+                weight = 3
+            [[menu.main]]
+                parent = "blog"
+                name = "Tags"
+                url = "/tags/"
+                weight = 4
+
+    [[menu.main]]
+        name = "Acerca de"
+        url = "/about/"
+        weight = 3
+    [[menu.main]]
+        name = "Contacto"
+        url = "/contact/"
+        weight = 4
+
+# No tocar esta sección
+[markup.goldmark.renderer]
+    unsafe = true
+
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
